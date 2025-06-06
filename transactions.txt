@@ -41,3 +41,35 @@ Orders:
 Discount Applied: -Php42.75
 Total Price: Php242.25
 ------------------------------------------------------------------------
+Date: 2025-06-06 20:35:55
+Handled by: SeanJefferson
+Orders:
+# 	 Qty. 	Order 		Unit 		Subtotal
+1.	 4	AllFri (S)	Php95.0		Php380.0
+2.	 1	MozFri (B)	Php139.0		Php139.0
+3.	 2	DDFri (C)	Php105.0		Php210.0
+------------------------------------------------------------------------
+Discount Applied: -Php109.35
+Total Price: Php619.65
+------------------------------------------------------------------------
+Date: 2025-06-06 20:44:27
+Handled by: SeanJefferson
+Orders:
+# 	 Qty. 	Order 		Unit 		Subtotal
+1.	 1	AllFri (S)	Php195.0		Php195.0
+2.	 3	MozStix (S)	Php145.0		Php435.0
+3.	 2	DDFri (B)	Php105.0		Php210.0
+------------------------------------------------------------------------
+Discount Applied: -Php126.00
+Total Price: Php714.00
+------------------------------------------------------------------------
+Date: 2025-06-06 20:47:34
+Handled by: SeanJefferson
+Orders:
+# 	 Qty. 	Order 		Unit 		Subtotal
+1.	 5	AllFri (B)	Php195.0		Php975.0
+2.	 2	OvFri (S)	Php120.0		Php240.0
+------------------------------------------------------------------------
+Discount Applied: -Php1190.70
+Total Price: Php24.30
+------------------------------------------------------------------------
